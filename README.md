@@ -27,7 +27,7 @@
 </sub>
 
 ## 💭 Como este repositório está organizado
-> Cada aula será dividida em pastas com o arquivo PDF dos slides, além de um README sobre a aula.
+> Cada aula será dividida em pastas com o arquivo PDF dos slides, além de um README sobre a aula, dessa maneira, futuros professores poderam seguir o conteúdo contido nesse material.
 
 ## 🤝 Como contribuir?
 > Viu alguma coisa errada ou quer propor uma melhoria para esse projeto? Pode criar uma issue explicando o seu caso ou então você pode criar um fork desse repositório, arrumar o que precisar no seu fork e criar um pull request explicando o que foi mudado e porque.
