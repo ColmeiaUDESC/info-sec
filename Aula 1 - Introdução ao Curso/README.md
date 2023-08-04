@@ -5,26 +5,26 @@
 </p>
 
 ## :speech_balloon: Slide 7
-> Falar que queremos feedback e temas que possam interessar a todos e falar também que podemos aprofundar em áreas que a galera parece ter dificuldade (por isso é importante o feedback).
+> Falar que queremos feedback e temas que possam interessar a todos e falar também que podemos aprofundar em áreas que a galera parece ter dificuldade (por isso é importante o feedback).  
 
 ## :speech_balloon: Slide 8
 > Burp suite é uma ferramenta muito poderosa para web hacking, a gente vai dar uma olhada nela.  
 > OWASP top 10 são as vulnerabilidades mais atuais e "quentes" do momento, ajudam a gente a direcionar a nossa atenção a o que estudar no momento.  
 > Fala pro pessoal que talvez não aparece o path complete begginer, então tem o link no discord.  
-> https://tryhackme.com/path-action/beginner/join
+> https://tryhackme.com/path-action/beginner/join  
 
 ## :speech_balloon: Slide 9
 > Mostrar o site, mostra como vai funcionar mais ou menos (deixa eles mexerem também e até criar conta).
   
 > Fazer lab Complete Beginner Introduction do path (menos Introductory Researching).  
-> Tarefa Introductory Researching.
+> Tarefa Introductory Researching.  
 
 ## :speech_balloon: Slide 10
 > Equipe azul: Como a equipe azul funciona na defesa, ela apresenta o papel de defender o ambiente interno e a segurança de uma empresa ou algum serviço que precise ser monitorado contra ameaças.
 
 > Equipe vermelha: Já que a equipe vermelha trabalha com o ataque, eles buscam falhas e vulnerabilidades em uma empresa ou serviço, e os classificam de acordo com padrões internacionais, por exemplo, o NIST. Assim, após essa etapa, essas falhas e vulnerabilidades podem ser exploradas com pentests (ciberataque simulado).
 
-> Equipe roxa: Então, temos a equipe roxa, a mistura das duas outras equipes, ela representa a atuação das duas outras equipes simultaneamente, ao mesmo tempo que a defesa é feita, também temos o ataque atuando, dessa maneira, leva à melhora da segurança de uma empresa ou serviço.
+> Equipe roxa: Então, temos a equipe roxa, a mistura das duas outras equipes, ela representa a atuação das duas outras equipes simultaneamente, ao mesmo tempo que a defesa é feita, também temos o ataque atuando, dessa maneira, leva à melhora da segurança de uma empresa ou serviço.  
 
 ## :speech_balloon: Slide 12
 > VM = Virtual Machine, ou seja, máquina virtual que é o que vamos usar no curso.  
@@ -35,10 +35,10 @@
 > Desktop Environment = da para escolher na instalação (explicar oq é).
 
 > Mostrar o site do kali.
-> Mostrar a parte de cursos.
+> Mostrar a parte de cursos.  
 
 ## :speech_balloon: Slide 13
-> Falar do modo undercover, ele imita o windows pra poder usar o kali em lugar público sem parecer hacker.
+> Falar do modo undercover, ele imita o windows pra poder usar o kali em lugar público sem parecer hacker.  
 
 ## :speech_balloon: Slide 14
 > CyberChef = Para encodar, decodar, encriptar, descriptar, formatar, muita coisa.  
@@ -56,7 +56,7 @@
 > Mostrar o Kali Purple na VM.  
 
 ## :speech_balloon: Slide 15
-> Falar que o NIST é usado nas ferramentas selecionadas durante a instalação do Kali Purple.
+> Falar que o NIST é usado nas ferramentas selecionadas durante a instalação do Kali Purple.  
 
 ## :speech_balloon: Slide 16
 > A NIST é uma agência governamental estadunidense que fornece orientações e padrões a serem seguidos por empresas.  
@@ -69,19 +69,19 @@
 > Responder: (Resposta a ataques Cibernéticos) Planejamento de Resposta, Comunicações, Análise, Mitigação, Melhorias.  
 > Recuperar: (Resiliência Cibernética) Planejamento de Recuperação, Melhorias, Comunicações.
 
-> https://www.nist.gov/cyberframework
+> https://www.nist.gov/cyberframework  
 
 ## :speech_balloon: Slide 17
 > Nem sempre VM = Tem vzs que tu vai querer usar todo a cpu do teu sistema pra processar algo, então usa um live usb pra aproveitar mais da tua maquina.  
 > KVM para linux é melhor q virtual box.  
-> Fazer backup depois q terminar o setup pq se tu um dia quebrar tua instalação só voltar no backup em vez de instalar tudo de novo.
+> Fazer backup depois q terminar o setup pq se tu um dia quebrar tua instalação só voltar no backup em vez de instalar tudo de novo.  
 
 ## :speech_balloon: Slide 18
-> Kali tem 3GB mas recomendado pendrive de 8gb para usar modo persistência para ter as ferramentas atualizadas.
+> Kali tem 3GB mas recomendado pendrive de 8gb para usar modo persistência para ter as ferramentas atualizadas.  
 
 ## :speech_balloon: Slide 19
 > Forensic mode = Não toca no hd do pc.  
-> Persistence = https://www.kali.org/docs/usb/usb-persistence/
+> Persistence = https://www.kali.org/docs/usb/usb-persistence/  
 
 ## :speech_balloon: Slide 20
-> É importante todo mundo saber o que tá acontecendo até aqui!!!
+> É importante todo mundo saber o que tá acontecendo até aqui!!!  
